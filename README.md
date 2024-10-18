@@ -1,5 +1,5 @@
 # 3D-Wireframe Models
-An app for loading and viewing 3D-wireframe models set up of vertices (points) and edges (lines).
+An app for loading and viewing 3D-wireframe models set up of vertices (points) and edges (lines).\n
 You can install and use the app as shown below
 
 https://github.com/user-attachments/assets/45eea27a-7916-477e-b0db-07495b278838
