@@ -1,11 +1,3 @@
-# 3D-Wireframe Models
-For loading and viewing 3D-wireframe models set up of vertices and edges
-
-User can install and use the app as shown below
-
-https://github.com/user-attachments/assets/45eea27a-7916-477e-b0db-07495b278838
-
-https://github.com/user-attachments/assets/c6a6d888-9b24-4888-85b5-f34fae43fb97
-
-https://github.com/user-attachments/assets/0e2ccbcc-6f76-4823-9755-6aa52e8d7fe4
+<h3>Click the Image</h3>
+<a href="https://drive.google.com/file/d/1B5pkvy3Wf9UISlRHiEn_qG4Rf3-A599K/view?usp=sharing" target="_blank" style="text-align:center;"><img src="game.jpg" style="width:30%; height:auto;"/></a>
 
